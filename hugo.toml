@@ -17,7 +17,7 @@ author = "Sparisoma Viridi"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Sparisoma Viridi's personal website"
 keywords = "blog,developer,personal"
-info = ["Physicist", "Programmer"]
+info = ["Martial Artist", "Gamer"]
 
 avatarURL = "img/avatar.svg"
 
@@ -116,7 +116,7 @@ author = "authors"
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 0
-url = "https://github.com/dudung/"
+url = "https://github.com/Antara000"
 
 [[params.social]]
 name = "Flickr"
@@ -146,13 +146,13 @@ url = "https://www.linkedin.com/in/6unpnp/"
 name = "Medium"
 icon = "fa fa-2x fa-medium"
 weight = 5
-url = "https://medium.com/@6unpnp"
+url = "https://medium.com/@shakty209"
 
 [[params.social]]
 name = "Instagram"
 icon = "fa fa-2x fa-instagram"
 weight = 6
-url = "https://www.instagram.com/6unpnp"
+url = "https://www.instagram.com/shakty_msbd/"
 
 [[params.social]]
 name = "Tumblr"
