@@ -208,7 +208,7 @@ icon = "fa fa-2x fa-discord"
 weight = 15
 url = "https://discordhub.com/profile/1044507917623246919"
 
-[[params.social]]
+#[[params.social]]
 name = "RSS"
 icon = "fa fa-2x fa-rss"
 weight = 16
