@@ -209,12 +209,12 @@ weight = 15
 url = "https://discordhub.com/profile/1044507917623246919"
 
 #[[params.social]]
-name = "RSS"
-icon = "fa fa-2x fa-rss"
-weight = 16
-url = "https://dudung.github.io/lecture-notes/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+#name = "RSS"
+#icon = "fa fa-2x fa-rss"
+#weight = 16
+#url = "https://dudung.github.io/lecture-notes/index.xml"
+#rel = "alternate"
+#type = "application/rss+xml"
 
 
 # en (default)
